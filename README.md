@@ -72,6 +72,10 @@
 - **Impact:** Built platform from scratch; SEO optimized, analytics-enabled; scalable AI-driven workflows  
 
 ### [Couture.ai – AI-Driven Growth Platform](https://couture.ai)
+<a href="https://couture.ai">
+  <img src="https://couture.ai/images/logo/coutureai_logo.svg" width="100" height="100" alt="Couture Logo">
+</a>
+
 - **Role:** Senior SDE | AI Solutions Consultant  
 - **Tech Stack:** React.js, Node.js, AWS, Analytics & Campaign Integration  
 - **Impact:** Delivered AI-powered UX and automation; improved conversion tracking and growth insights  
