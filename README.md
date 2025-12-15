@@ -45,5 +45,3 @@
 - **Portfolio:** [https://caistack.com](https://caistack.com)  
 
 ---
-
-> “I combine full-stack engineering, AI integration, and cloud-native architecture to build platforms that scale and deliver real business impact.”
