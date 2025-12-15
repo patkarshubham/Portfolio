@@ -63,7 +63,7 @@
 ## 🚀 Featured Projects
 
 ### [CAI Stack – Corporate Website & AI Platform](https://caistack.com)
-[![CAI Stack Logo]([[https://caistack.com/images/logo/CAIStack_logo.svg](https://caistack.com/)])](https://caistack.com)
+[![CAI Stack Logo](https://caistack.com/images/logo/CAIStack_logo.svg)](https://caistack.com)
 
 - **Role:** Senior SDE | AI Solutions Consultant  
 - **Tech Stack:** Next.js, TypeScript, FastAPI, AWS, GA4, GTM, RAG pipelines  
