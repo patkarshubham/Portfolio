@@ -72,7 +72,7 @@
 - **Impact:** Built platform from scratch; SEO optimized, analytics-enabled; scalable AI-driven workflows  
 
 ### [Couture.ai – AI-Driven Growth Platform](https://couture.ai)
-<a href="https://couture.ai">
+<a href="https://couture.ai" style="background-color:white; display:inline-block; padding:5px; border-radius:10px;">
   <img src="https://couture.ai/images/logo/coutureai_logo.svg" width="100" height="100" fill="white" alt="Couture Logo">
 </a>
 
