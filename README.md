@@ -64,7 +64,7 @@
 
 ### [CAI Stack – Corporate Website & AI Platform](https://caistack.com)
 <a href="https://caistack.com">
-  <img src="https://caistack.com/images/logo/CAIStack_logo.svg" width="100" height="100" alt="CAI Stack Logo">
+  <img src="https://caistack.com/images/logo/CAIStack_logo.svg" width="100" height="100" fill="white" alt="CAI Stack Logo">
 </a>
 
 - **Role:** Senior SDE | AI Solutions Consultant  
@@ -73,7 +73,7 @@
 
 ### [Couture.ai – AI-Driven Growth Platform](https://couture.ai)
 <a href="https://couture.ai">
-  <img src="https://couture.ai/images/logo/coutureai_logo.svg" width="100" height="100" alt="Couture Logo">
+  <img src="https://couture.ai/images/logo/coutureai_logo.svg" width="100" height="100" fill="white" alt="Couture Logo">
 </a>
 
 - **Role:** Senior SDE | AI Solutions Consultant  
