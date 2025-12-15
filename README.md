@@ -14,6 +14,52 @@
 
 ---
 
+## 💻 Tech Stack
+
+### **Frontend & UI**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000?style=for-the-badge&logo=framer&logoColor=white)
+
+### **Backend & APIs**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-ff6c37?style=for-the-badge)
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-00BFFF?style=for-the-badge)
+
+### **AI & Automation**
+![LLM](https://img.shields.io/badge/LLM-0F111A?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Purple?style=for-the-badge)
+![AI Workflow](https://img.shields.io/badge/AI_Workflow-FF6F61?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1E90FF?style=for-the-badge)
+
+### **Analytics & Growth**
+![GA4](https://img.shields.io/badge/GA4-4285F4?style=for-the-badge)
+![GTM](https://img.shields.io/badge/GTM-0F9D58?style=for-the-badge)
+![Microsoft Clarity](https://img.shields.io/badge/Clarity-0052CC?style=for-the-badge)
+
+### **Testing & QA**
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge)
+![QA](https://img.shields.io/badge/QA-1ABC9C?style=for-the-badge)
+
+### **Project Management & Collaboration**
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-F24E1E?style=for-the-badge&logo=asana&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+
+---
+
 ## 🚀 Featured Projects
 
 ### [CAI Stack – Corporate Website & AI Platform](https://caistack.com)
@@ -49,4 +95,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patkarshubham)](https://github.com/patkarshubham?tab=repositories)
 
 ---
-![Shubham's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=patkarshubham&theme=react-dark&area=true)
