@@ -46,7 +46,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhampatkar)](https://github.com/shubhampatkar?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patkarshubham)](https://github.com/patkarshubham?tab=repositories)
 
 ---
-![Shubham's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shubhampatkar&theme=react-dark&area=true)
+![Shubham's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=patkarshubham&theme=react-dark&area=true)
